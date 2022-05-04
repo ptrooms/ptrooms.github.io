@@ -1,4 +1,4 @@
 # ptro.github.io
-GitHub webite PtrO
-note: Page are published via branch gh-pages (Jekyll)
-test: {{site.time}}
+GitHub website PtrO
+note: Page are published via branch gh-pages (Jekyll aware on INDEX.md)
+Note: this is file README.md
