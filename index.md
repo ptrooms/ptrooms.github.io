@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages PtrO (wip) Jekyll
+## Welcome to GitHub Pages PtrO (wip) Jekyll  time: {{site.time}}
 
 You can use the [editor on GitHub](https://github.com/ptrooms/ptro.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
