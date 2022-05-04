@@ -1,7 +1,6 @@
 # ptro.github.io
-GitHub website PtrO
+file: README.md on  ptrooms / ptrooms.github.io 
 note: Page are published via branch gh-pages (Jekyll aware on INDEX.md)
-Note: this is file README.md
 
-![alt text](https://github.com/ptrooms/ptrooms.github.io/blob/gh-pages/assets/images/ptro_680x478.jpg?raw=true)
-<img src="https://github.com/ptrooms/ptrooms.github.io/blob/gh-pages/assets/images/hcclogo.png">
+<center>Logo's: <img src="https://github.com/ptrooms/ptrooms.github.io/blob/gh-pages/assets/images/ptro_680x478.jpg" height="100"> ![alt text](https://github.com/ptrooms/ptrooms.github.io/blob/gh-pages/assets/images/Git_logo.png?raw=true)</center>
+
