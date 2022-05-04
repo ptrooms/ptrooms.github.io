@@ -2,3 +2,5 @@
 GitHub website PtrO
 note: Page are published via branch gh-pages (Jekyll aware on INDEX.md)
 Note: this is file README.md
+
+!(hcc)[/assets/images/hcclogo.png]
