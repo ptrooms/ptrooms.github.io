@@ -1,3 +1,3 @@
 # ptro.github.io
-GitHub webite PtrO
-To show and document things via 
+GitHub website PtrO
+To show and document things via GitHub Pages on branch *gh-pages*
