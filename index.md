@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages PtrO (wip) Jekyll  time: {{site.time}} textwallclock:15u33s20
 Published [https://ptrooms.github.io/ptro.github.io/](https://ptrooms.github.io/ptro.github.io/) , thgis is file: index.md@gh-pages
-<div>![GitiLogo](/assets/images/Git_logo.png) <img src="hcclogo.png" alt="hcclogo" height="100"></div>
+![GitLogo](/assets/images/Git_logo.png) <img src="/assets/images/hcclogo.png" alt="hcclogo" height="100">
 
 You can use the [editor on GitHub](https://github.com/ptrooms/ptro.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
