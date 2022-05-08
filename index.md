@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages PtrO (wip) Jekyll  time: {{site.time}} textwallclock:15u33s20
-Published [https://ptrooms.github.io/ptrooms.github.io/](https://ptrooms.github.io/ptrooms.github.io/) , thgis is file: index.md@gh-pages
-[My GIT](https://github.com/ptrooms) and [hcc.pafo2.nl](http:hcc.pafo2.nl)
+Published [https://ptrooms.github.io/ptrooms.github.io/](https://ptrooms.github.io/ptrooms.github.io/) , this is file: index.md@gh-pages
+[My GIT](https://github.com/ptrooms) and [hcc.pafo2.nl](http://hcc.pafo2.nl)
 
 <img src="/assets/images/ptro_680x478.jpg" alt="ptrologo" height="100"> ![GitLogo](/assets/images/Git_logo.png) <img src="/assets/images/hcclogo.png" alt="hcclogo" height="100">
 
