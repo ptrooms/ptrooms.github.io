@@ -30,6 +30,42 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Using ticket-marks
+```
+- [X] Write the code
+```
+- [X] Write the code
+- [ ] Write all the tests
+- [ ] Document the code
+
+# Using snippets
+sample:
+```java
+for(int i=0 ; i < 5 ; i++)
+{
+System.out.println("i is : " + i);
+}
+```
+# Using: quotes
+```
+> Whether 'tis Nobler in the mind to suffer
+```
+> The Slings and Arrows of outrageous Fortune, 
+How big are these slings and in particular, these arrows?
+
+
+# using Emoji's
+```
+I :eyes: that :bug: and I :cold_sweat:.
+:trophy: for :microscope: it.
+:+1: and :sparkles: on this :ship:, it's :fire::poop:!
+:clap::tada::panda_face:
+```
+:eyes: that :bug: and I :cold_sweat:.
+:trophy: for :microscope: it.
+:+1: and :sparkles: on this :ship:, it's :fire::poop:!
+:clap::tada::panda_face:
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
