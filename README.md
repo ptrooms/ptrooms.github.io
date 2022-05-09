@@ -10,3 +10,15 @@ note: Page are published via branch gh-pages (Jekyll aware on INDEX.md)
 
 Logo's: <img src="https://github.com/ptrooms/ptrooms.github.io/blob/gh-pages/assets/images/ptro_680x478.jpg" height="100">-<img src="https://github.com/ptrooms/ptrooms.github.io/blob/gh-pages/assets/images/hcclogo.png" height="100">
 
+# sample code snippet
+sample:
+```java
+for(int i=0 ; i < 5 ; i++)
+{
+System.out.println("i is : " + i);
+}
+```
+# sample quotes
+> Whether 'tis Nobler in the mind to suffer
+> The Slings and Arrows of outrageous Fortune,
+How big are these slings and in particular, these arrows?
