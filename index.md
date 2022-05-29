@@ -2,6 +2,9 @@
 Published [https://ptrooms.github.io](https://ptrooms.github.io) , this is file: index.md@gh-pages
 [My GIT](https://github.com/ptrooms) and [hcc.pafo2.nl](http://hcc.pafo2.nl)
 
+<small>Note: we use "Custom domains" that will serve this site from 'github.pafo2.nl' which disquises the normal 'ptrooms.github.io'. [Learn more](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).</small>
+
+
 <img src="/assets/images/ptro_680x478.jpg" alt="ptrologo" height="100"> ![GitLogo](/assets/images/Git_logo.png) <img src="/assets/images/hcclogo.png" alt="hcclogo" height="100">
 
 You can use the [editor on GitHub](https://github.com/ptrooms/ptro.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -128,7 +131,6 @@ endsolid
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
-
 # using Emoji's
 ```
 I :eyes: that :bug: and I :cold_sweat:.
@@ -142,6 +144,11 @@ I :eyes: that :bug: and I :cold_sweat:.
 :clap::tada::panda_face:
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+# Code gists / snippets
+
+Using [my gist](https://gist.github.com/ptrooms) for SpecialHtmlCharacters:
+<script src="https://gist.github.com/ptrooms/e6dff8be13d6d55249b80c5fc2a54dca.js"></script>
 
 ### Jekyll Themes
 
