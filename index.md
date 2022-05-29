@@ -53,6 +53,15 @@ System.out.println("i is : " + i);
 > The Slings and Arrows of outrageous Fortune, 
 How big are these slings and in particular, these arrows?
 
+# Flows
+Flows using mermaid (tod:29may22 22u21m17)
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 # using Emoji's
 ```
