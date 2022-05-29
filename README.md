@@ -1,6 +1,6 @@
 # ptro.github.io
 file: README.md on  ptrooms / ptrooms.github.io updated 29may22 22u21m17 <br>
-note: Page are published via branch gh-pages (Jekyll aware on INDEX.md)
+note: Page are published via branch gh-pages/index.md (Jekyll aware on **INDEX.md**)
 
 - [X] Write the code
 - [ ] Write all the tests
